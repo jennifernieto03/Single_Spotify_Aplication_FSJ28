@@ -13,7 +13,7 @@ export default function Main_content() {
         <>
             <div class="row">
 
-                <aside class="lateral col-lg-1 col-md-3 col-sm-12 col-12">
+                <aside class="barra_lateral col-lg-1 col-md-3 col-sm-12 col-12">
                         <a href="" className=" sidebar-link text-decoration-none bg-transparent m-2">Tu biblioteca</a>
                         <a href="" className="idebar-link text-decoration-none bg-transparent m-2"><VscAdd /></a>
                 

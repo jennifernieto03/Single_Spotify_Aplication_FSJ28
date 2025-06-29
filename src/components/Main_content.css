@@ -1,11 +1,11 @@
 
-/**fondo*/
+/*Fondo*/
 .layout {  
   background-color: black;
 }
 
 /*barra lateral*/
-.lateral {
+.barra_lateral {
   background-color: #121212;
   min-height: 41vh;
   padding: 10px;
@@ -46,7 +46,6 @@
 /*contenedor Principal*/
 .content {
   flex: 1;
-  
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   min-height: 100vh;

@@ -1,7 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import FormIniciarSesion from './IniciarSesion'; // componente con el formulario
-import { Link } from "react-router-dom"; // Importa Link
 
 export const logo = "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_White.png";
 export const homeIMG = "https://res.cloudinary.com/djn6tkvvl/image/upload/v1750647725/pngegg_1_xsnggy.png";

@@ -1,13 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
-//import { dbStore } from '../../firebase/appConfig';
 import { useForm } from "react-hook-form";
 import { auth, db } from "../../firebase/appConfig";
 import { doc, setDoc, getDoc } from "firebase/firestore";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { useState } from "react";
-import { Link } from "react-router-dom";
+
 
 export default function FormIniciarSesion() {
   const { register, handleSubmit, formState: { errors } } = useForm();
