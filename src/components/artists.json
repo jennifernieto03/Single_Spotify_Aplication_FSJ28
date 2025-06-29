@@ -1,0 +1,22 @@
+{"artists": [
+    {
+        "nombre": "Alan Walker",
+        "imagen":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750982694/ab6761610000e5ebbf753c009fd9c2d53351dd3c_ri7eu1.jpg"
+        
+    },
+    {
+        "nombre": "BLACK PINK",
+        "imagen":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750982638/ab67616100005174667b1c37aac06716daa5fe92_intflu.jpg"
+        
+    },
+        {
+        "nombre": "HUNTR/X",
+        "imagen":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750982869/artworks-W28hqheISEBUyEWr-EOtQGA-t500x500_vbkmtn.jpg"
+    },
+        {
+        "nombre": "KATSEYE",
+        "imagen":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750982937/KATSEYE_Debut_Online_Cover_3000px_72dpi-compressed-1024x1024_de3hh6.jpg"
+    }
+    
+]
+}

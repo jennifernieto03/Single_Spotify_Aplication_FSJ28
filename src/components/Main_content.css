@@ -1,0 +1,96 @@
+
+/**fondo*/
+.layout {  
+  background-color: black;
+}
+
+/*barra lateral*/
+.lateral {
+  background-color: #121212;
+  min-height: 41vh;
+  padding: 10px;
+  border-radius: 1rem;
+}
+
+.card {
+  margin-top: 5px;
+}
+
+.card-title {
+  font-size: 15px;
+}
+
+.card-text {
+  font-size: 11px;
+}
+
+.lateral .card .btn{
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.sidebar-link {
+  color: white;
+  padding: 7px;
+  font-size: 15px;
+  font-weight: bold;
+  
+}
+
+.icon-plus {
+  margin-left: -0px;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
+
+/*contenedor Principal*/
+.content {
+  flex: 1;
+  
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  min-height: 100vh;
+  padding: 20px;
+  border-radius: 1rem;
+  margin-left: 10px;
+}
+
+/*NavBar*/
+.navbar{
+  background-color: black;
+}
+
+
+/*canciones*/
+.carrusel-container {
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+.carrusel-scroll {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.cancion-card {
+  flex: 0 0 auto;
+  width: 150px;
+  text-align: center;
+  color: white;
+}
+
+.cancion-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+@media (min-width: 768px){
+  .layout{
+    display: flex;
+  }
+  .lateral {
+      width: 380px;
+  }
+}

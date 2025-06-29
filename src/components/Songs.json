@@ -1,0 +1,39 @@
+{"canciones": [
+    {
+        "nombre": "Faded",
+        "portada":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750981292/Alan_Walker_-_Faded_ux4l2c.png",
+        "Autores" :"Alan Walker"
+    },
+    {
+        "nombre": "Golden",
+        "portada":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750981690/ab67616d00001e024dcb6c5df15cf74596ab25a4_jeyvxt.jpg",
+        "Autores" :"HUNTR/X"
+    },
+        {
+        "nombre": "Alone",
+        "portada":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750981593/Alan_Walker_-_Alone_y2kqq5.png",
+        "Autores" :"Alan Walker"
+    },
+        {
+        "nombre": "Popular",
+        "portada":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750981739/0x1900-000000-80-0-0_qzscpq.jpg",
+        "Autores" :"Wicked"
+    },
+        {
+        "nombre": "DtMf",
+        "portada":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750981800/DeBI-TiRAR-MaS-FOToS-Bad-bunny-2025-001-1-scaled_ueuab8.jpg",
+        "Autores" :"Bad Bunny"
+    },
+        {
+        "nombre": "Gabriela",
+        "portada":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750982034/artworks-1A2W1Kz62jR4-0-t500x500_sfi8ss.jpg",
+        "Autores" :"KATSEYE"
+    },
+        {
+        "nombre": "Without You",
+        "portada":"https://res.cloudinary.com/djn6tkvvl/image/upload/v1750982084/7245919_sl6gia.jpg",
+        "Autores" :"BLACKPINK"
+    }
+    
+]
+}
